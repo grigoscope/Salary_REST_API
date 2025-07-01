@@ -1,0 +1,37 @@
+[
+  {
+    "login": "user1",
+    "password": "Rw28r8ktA-Fjvs3C",
+    "token": "c54252a6f9aeb1307b37be946ff744a16034ea6c",
+    "current_salary": 50000,
+    "next_raise_date": "2026-11-01"
+  },
+  {
+    "login": "user2",
+    "password": "9DBuUlKa59n_P-6S",
+    "token": "789c756c7764aeefd0a5864a7bc062e1b4fab294",
+    "current_salary": 62000,
+    "next_raise_date": "2025-01-15"
+  },
+  {
+    "login": "user3",
+    "password": "Ipv0UebcC0UVCTij",
+    "token": "fa85b790e1b1e1706526d1825bc77b60ae965fb9",
+    "current_salary": 58000,
+    "next_raise_date": "2025-12-20"
+  },
+  {
+    "login": "user4",
+    "password": "LMD15wRhg5eeTJRG",
+    "token": "dad83d767ff35d0fe0845316ada79da9cea731cc",
+    "current_salary": 71000,
+    "next_raise_date": "2025-02-28"
+  },
+  {
+    "login": "user5",
+    "password": "Cqme0jR6O0JvwvOb",
+    "token": "ba422b47b505d61f50e85dfc295efd9fec31e8cc",
+    "current_salary": 64500,
+    "next_raise_date": "2025-10-30"
+  }
+]
